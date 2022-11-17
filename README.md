@@ -25,6 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SammyEl-Sherif&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SammyEl-Sherif&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 [<img src="images/LI-In-Bug.png.png">](https://github.com/SammyEl-Sherif/SammyEl-Sherif/blob/5a54a58a64bde42a6e61853d8cf3ddbe6b4ba943/images/LI-In-Bug.png/)
