@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 ## My Favorite Programming Language
 Python is my favorite programming language because it is easy to read and understand, and it allows me to develop my ideas quickly. Its simple syntax and large standard library make it a great choice for beginners and experts alike. With Python, I can quickly write and test code, and I can easily scale my projects to meet the needs of my users. Additionally, Python has a vibrant community of developers who are always working on new libraries and tools to make Python even better. Overall, I love using Python because it makes it easy for me to turn my ideas into working software.
 
-## Why I want Career in Cloud Infrastructure
+## Cloud Infrastructure
 I find passion from developing cloud infrastructure because it is the backbone that supports app development teams in bringing their ideas to life. The cloud is where the magic happens, and I enjoy the challenge of building and maintaining the systems that make it all possible. From designing and implementing scalable and resilient architectures to troubleshooting complex issues and optimizing performance, I find great satisfaction in knowing that my work is critical to the success of the app development teams. Plus, the field of cloud infrastructure is constantly evolving, which means there is always something new to learn and discover.
 
 ---
