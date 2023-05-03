@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   </br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,js,html,css,styledcomponents" />
   </a>
   </br>
   <a href="https://skillicons.dev">
