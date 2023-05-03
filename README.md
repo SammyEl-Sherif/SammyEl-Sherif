@@ -7,7 +7,8 @@ You can click the Preview link to take a look at your changes.
 # Sammy El-Sherif
 #### ```Incoming SWE at Grainger```
 
-I am currently finishing my final semester of my CS degree at the University of Colorado - Denver. Next, I will be heading to Grainger's technology group for a software engineering position where I will take on their 2 year rotational program. Last summer I interned at Grainger on their Cloud Foundations team, which sparked a large interest in cloud infrastructure for me. But, I am still very excited to go through their rotational program and grow my breadth of software engineering knowledge.  
+
+I'm currently in the final semester of my Computer Science degree at the University of Colorado - Denver. After graduation, I plan to join Grainger's technology group as a software engineer in their 2-year rotational program. My previous internship with Grainger's Cloud Foundations team sparked a strong interest in cloud infrastructure, and I'm excited to build upon that experience and grow my software engineering knowledge through this opportunity.  
 
 ---
 
