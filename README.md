@@ -6,8 +6,6 @@ You can click the Preview link to take a look at your changes.
 
 # Sammy El-Sherif
 
----
-
 ### Technologies and Tools
 <!-- html starts -->
 <div align="left">
