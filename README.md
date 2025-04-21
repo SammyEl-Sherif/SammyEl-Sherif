@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
   <div class="row-label">General Purpose</div>
   <div id="row1">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python" />
     </a>
   </div>
 
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <div class="row-label">Web Development</div>
   <div id="row2">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,js,html,css,styledcomponents" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,html,css,styledcomponents,redux" />
     </a>
   </div>
   
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
   <div class="row-label">Databases</div>  
   <div id="row3">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb," />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb," />
     </a>
   </div>
 
