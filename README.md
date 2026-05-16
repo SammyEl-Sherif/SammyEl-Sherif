@@ -1,8 +1,7 @@
-<!---
+<!--
 SammyEl-Sherif/SammyEl-Sherif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-
+-->
 
 # Sammy El-Sherif
 
@@ -51,3 +50,9 @@ You can click the Preview link to take a look at your changes.
   <br />
 </div>
 <!-- html ends -->
+
+### Showcased Projects
+- [WorkPace](https://github.com/SammyEl-Sherif/workpace) - Rapid prototyping and product management.
+- [voxchop](https://github.com/SammyEl-Sherif/voxchop) - AI-powered audio tools.
+- [Sight](https://github.com/SammyEl-Sherif/Sight) - Intention-based media consumption manager.
+- [ralli](https://github.com/SammyEl-Sherif/ralli) - Your shortcut to good times.
